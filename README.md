@@ -3,6 +3,9 @@
 On dirait bien que vos explorations sur la toile vous on conduit sur mon GitHub... Alors - puisque vous êtes là - détentez-vous, prennez une tasse de votre boisson préférée et profitez-en pour en découvrir un peu sur ma (charmante) personne.
 <br>
 <br>
+<img src='https://github.com/KellyJeanneBECK/KellyJeanneBECK/blob/main/Iroh_gif.gif' alt="Iroh, personnage ATLA, disant : 'Sharing tea with a fascinating stranger is one of life's true delights.'">
+<br>
+<br>
 <br>
 
 ## Un petit brin de développeuse 💻
