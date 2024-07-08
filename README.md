@@ -9,7 +9,7 @@ On dirait bien que vos explorations sur la toile vous on conduit sur mon GitHub.
 <br>
 
 ## Un petit brin de développeuse 💻
-Mon aventure dans le monde merveilleux du dev commence en février 2024 quand j'apprends les fondamentaux du HTML et CSS. Et quelques mois plus tart me voilà armée d'un liste de nouvelles compétences, liste qui ne va que s'allonger au gré de ma progression.
+Mon aventure dans le monde merveilleux du dev commence en février 2024 quand j'apprends les fondamentaux du HTML et CSS. Et quelques mois plus tart me voilà armée d'un liste de nouvelles compétences, liste qui ne va que s'allonger au gré de mes avancées.
 <br>
 <br>
 
@@ -27,8 +27,9 @@ Mon aventure dans le monde merveilleux du dev commence en février 2024 quand j'
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
-Ma particularité ? Une grande appréciation du CSS et une appétence pour le design en général...
+Ma particularité ? Une certaine affinité avec le CSS et une appétence pour le design en général...
 
+<br>
 <br>
 <br>
 
